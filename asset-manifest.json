@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/Firebase_React_App/static/js/main.9e1f7f46.chunk.js",
-    "main.js.map": "/Firebase_React_App/static/js/main.9e1f7f46.chunk.js.map",
+    "main.js": "/Firebase_React_App/static/js/main.b5bf2b16.chunk.js",
+    "main.js.map": "/Firebase_React_App/static/js/main.b5bf2b16.chunk.js.map",
     "runtime-main.js": "/Firebase_React_App/static/js/runtime-main.2dddaaa3.js",
     "runtime-main.js.map": "/Firebase_React_App/static/js/runtime-main.2dddaaa3.js.map",
     "static/css/2.658248ec.chunk.css": "/Firebase_React_App/static/css/2.658248ec.chunk.css",
-    "static/js/2.ca5af92c.chunk.js": "/Firebase_React_App/static/js/2.ca5af92c.chunk.js",
-    "static/js/2.ca5af92c.chunk.js.map": "/Firebase_React_App/static/js/2.ca5af92c.chunk.js.map",
+    "static/js/2.24ac090f.chunk.js": "/Firebase_React_App/static/js/2.24ac090f.chunk.js",
+    "static/js/2.24ac090f.chunk.js.map": "/Firebase_React_App/static/js/2.24ac090f.chunk.js.map",
     "index.html": "/Firebase_React_App/index.html",
     "static/css/2.658248ec.chunk.css.map": "/Firebase_React_App/static/css/2.658248ec.chunk.css.map",
-    "static/js/2.ca5af92c.chunk.js.LICENSE.txt": "/Firebase_React_App/static/js/2.ca5af92c.chunk.js.LICENSE.txt"
+    "static/js/2.24ac090f.chunk.js.LICENSE.txt": "/Firebase_React_App/static/js/2.24ac090f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2dddaaa3.js",
     "static/css/2.658248ec.chunk.css",
-    "static/js/2.ca5af92c.chunk.js",
-    "static/js/main.9e1f7f46.chunk.js"
+    "static/js/2.24ac090f.chunk.js",
+    "static/js/main.b5bf2b16.chunk.js"
   ]
 }
