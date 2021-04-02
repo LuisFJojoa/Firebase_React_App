@@ -18,7 +18,7 @@ The project Template can be used to build bigger projects
 
 ## Live Application URL
 
-### https://aditya-sridhar.github.io/simple-reactjs-app
+### https://luisfjojoa.github.io/Firebase_React_App/#/login
 This URL has the application deployed in
 
 ## Prerequisites
