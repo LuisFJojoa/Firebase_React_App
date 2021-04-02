@@ -29,7 +29,7 @@ const Menu = () => {
                         (
                             <>
                                 <li className="nav-item">
-                                    <Link className="nav-link" to='/'>Home</Link>
+                                    <Link className="nav-link" to='/home'>Home</Link>
                                 </li>
                                 <li>
                                     <Link className="nav-link" to='/product'>Product</Link>

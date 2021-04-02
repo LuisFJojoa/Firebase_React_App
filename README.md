@@ -46,7 +46,7 @@ npm install
 In order to run the application Type the following command
 
 ```bash
-npm start
+npm start or yarn start
 ```
 
 The Application Runs on **localhost:3000**
@@ -59,7 +59,7 @@ The Application Runs on **localhost:3000**
 
 2. **Home** Component: This component currently is empty. The component gets its home data, here you can add whatever what to you want.
 
-3. **Product** Component : This Component Displays the form to create/update products with name and price atttributes. Moreover, This components display a list with all products that exist in **Firebase Cloud Storage** 
+3. **Product** Component : This Component Displays the form to create/update products with name and price atttributes. Moreover, This component display a product's list that exist in **Firebase Cloud Storage** 
 
 #### URL
 

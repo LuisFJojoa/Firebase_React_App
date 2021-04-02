@@ -1,8 +1,9 @@
 import React from 'react';
 import { 
-    BrowserRouter as Router, 
+    HashRouter as Router, 
+    Redirect, 
     Route, 
-    Switch 
+    Switch
   } from 'react-router-dom'
 import HomePage from './components/HomePage'
 import LoginPage from './components/LoginPage'
@@ -15,9 +16,10 @@ function App() {
       <Router>
         <Menu></Menu>
         <Switch>
-          <Route exact path='/' component={HomePage}></Route>
+          <Route exact path='/home' component={HomePage}></Route>
           <Route  path='/product' component={Product}></Route>
           <Route  path='/login' component={LoginPage}></Route>
+          <Redirect from='/' to='/login'></Redirect>
         </Switch>
       </Router>
     </div>

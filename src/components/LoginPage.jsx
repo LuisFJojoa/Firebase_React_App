@@ -14,7 +14,7 @@ const LoginPage = () => {
         
         auth.createUserWithEmailAndPassword(email, password)
         .then(response => {
-            record.push('/')
+            record.push('/home')
         })
         .catch(err => {
             /* auth/invalid-email */
@@ -32,7 +32,7 @@ const LoginPage = () => {
     const LoginUser = () => {
         auth.signInWithEmailAndPassword(email, password)
         .then(response => {
-            record.push('/')
+            record.push('/home')
         })
         .catch(err => {
             /* auth/invalid-email */
