@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Firebase_React_App/static/js/main.b571febb.chunk.js",
-    "main.js.map": "/Firebase_React_App/static/js/main.b571febb.chunk.js.map",
+    "main.js": "/Firebase_React_App/static/js/main.db1a821c.chunk.js",
+    "main.js.map": "/Firebase_React_App/static/js/main.db1a821c.chunk.js.map",
     "runtime-main.js": "/Firebase_React_App/static/js/runtime-main.2dddaaa3.js",
     "runtime-main.js.map": "/Firebase_React_App/static/js/runtime-main.2dddaaa3.js.map",
     "static/css/2.658248ec.chunk.css": "/Firebase_React_App/static/css/2.658248ec.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2dddaaa3.js",
     "static/css/2.658248ec.chunk.css",
     "static/js/2.ca5af92c.chunk.js",
-    "static/js/main.b571febb.chunk.js"
+    "static/js/main.db1a821c.chunk.js"
   ]
 }
