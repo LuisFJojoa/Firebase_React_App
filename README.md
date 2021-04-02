@@ -8,11 +8,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This Project is a Simple ReactJS Project which demonstrates the following
 1. Creating a Component in React
-2. Communicating between parent and child component
-3. Using Bootstrap along with React
-4. Using Basic Routing in React
-5. Using Login/Logout Auth with Firebase Authentication
-6. Using Object Storage Service with Firebase Cloud Storage
+2. Using Bootstrap along with React
+3. Using Basic Routing in React
+4. Using Login/Logout Auth with Firebase Authentication
+5. Using Object Storage Service with Firebase Cloud Storage
 
 The project Template can be used to build bigger projects
 
